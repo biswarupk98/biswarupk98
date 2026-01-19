@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Biswarup Karmakar
 
-🎓 I'm a **third-year PhD student** in the **Department of Computational and Data Sciences (CDS)** at **Indian Institute of Science (IISc), Bangalore**.
+🎓 I'm a **Final-year PhD student** in the **Department of Computational and Data Sciences (CDS)** at **Indian Institute of Science (IISc), Bangalore**.
 
 🔬 My research interests broadly include:
 - Multilinear algebra and tensor methods 📐
