@@ -17,7 +17,7 @@
 
 
 📫 **Let's connect!**
-- Email: biswarupk@iisc.ac.in
+- Email: biswarupk7@gmail.com
 
 
 ---
